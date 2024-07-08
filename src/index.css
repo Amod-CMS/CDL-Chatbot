@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    /* background: white; */
+    color: black;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Open Sans Regular', sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: normal;
+}
+
+.cpoRYT {
+    max-width: 56%;
+    text-align: justify;
+}
+
+.gkhNlr button.sc-bxivhb.ejqIdy.rsc-os-option-element {
+    /* font-family: open sans sans-serif; */
+    font-family: 'Open Sans Regular', sans-serif;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-right: 11px;
+    font-size: 14px;
+    display: inline-block;
+    margin-bottom: 11px;
+    /* cursor: pointer; */
+    border: 1px solid #006cff;
+    color: #1a1175;
+    background: #0000000d;
+    /* background-color: #1a9ca0; */
+    /* background-color: #8b8b3f; */
+    /* letter-spacing: 1px; */
+    /* font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    background-color: #2f8375;
+    cursor: pointer;
+    width: 231px;
+    border: 1px solid #006cff;
+    color: #1a1175;
+    background: #0000000d; */
+}
+
+.sc-bxivhb.hVhGgP.rsc-os-option-element {
+    background-color: white;
+    color: #344548;
+    border: 1px solid #923A39;
+    font-family: 'Open Sans Regular', sans-serif;
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-right: 11px;
+    display: inline-block;
+    margin-bottom: 11px;
+    text-align: left;
+    letter-spacing: normal;
+    color: #676666;
+}
+
+.sc-bxivhb.hVhGgP.rsc-os-option-element:hover {
+    opacity: 1;
+    background-color: #923A39;
+    color: white;
+    cursor: pointer;
+}
+
+.sc-fjdhpX.ktgpYf.rsc-float-button {
+    margin: 5px;
+    height: 2px;
+}
+
+.personalized-icon {
+    height: 120px;
+    margin-bottom: 58px;
+    width: 200px;
+    margin-right: 0px;
+}
